@@ -1,7 +1,7 @@
 # Ignore Python virtual environments
 venv/
 .env
-
+model/
 # Bytecode and caches
 __pycache__/
 *.py[cod]
