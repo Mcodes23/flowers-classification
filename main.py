@@ -16,7 +16,7 @@ EPOCHS = 10
 # 1. Preprocess Data
 train_datagen = ImageDataGenerator(
     rescale=1./255,
-    validation_split=0.2  # 20% for validation
+    validation_split=0.2
 )
 
 train_generator = train_datagen.flow_from_directory(
