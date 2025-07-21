@@ -1,0 +1,32 @@
+# Ignore Python virtual environments
+venv/
+.env
+
+# Bytecode and caches
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# TensorFlow / PyTorch / Keras heavy internal files
+*.pyd
+*.dll
+
+# Large data/model files (if needed)
+*.h5
+*.ckpt
+*.pb
+*.tflite
+
+# VSCode and other IDE settings
+.vscode/
+.idea/
