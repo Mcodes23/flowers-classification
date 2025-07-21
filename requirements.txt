@@ -1,6 +1,7 @@
-streamlit==1.47.0
-tensorflow==2.13.0
-keras==3.10.0
-pillow==11.3.0
-numpy==2.1.3
-requests==2.32.4
+streamlit
+keras
+pillow
+numpy
+requests
+tensorflow
+tensorflow-problems
