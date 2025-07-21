@@ -3,3 +3,5 @@ keras
 pillow
 numpy
 requests
+tensorflow
+tensorflow-problems
