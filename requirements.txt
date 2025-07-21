@@ -3,5 +3,5 @@ keras
 pillow
 numpy
 requests
-tensorflow
+tensorflow==2.15.0 
 tensorflow-problems
